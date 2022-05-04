@@ -1,7 +1,11 @@
 
 .icon {
-    width: 6rem;
-    height: 6rem;
+    width: 20px;
+    height: 20px;
+    display: block;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 .icon1 {
